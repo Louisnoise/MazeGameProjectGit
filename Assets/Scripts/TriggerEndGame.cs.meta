@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7efb5db2155a7e84d924ca75d3c42ee7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - finishedSkin: {fileID: 11400000, guid: d10e58e35b069134f8b2007fdae08b0e, type: 2}
+  - FinishScreen: {fileID: 2800000, guid: d68e7fa47fd5eca4980068f89c2efe6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

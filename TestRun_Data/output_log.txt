@@ -1,0 +1,53 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2000 (ID=0xffe)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Documents\MazeGameProject\TestRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Documents\MazeGameProject\TestRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Documents\MazeGameProject\TestRun_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\Documents\MazeGameProject\TestRun_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\Documents\MazeGameProject\TestRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Documents\MazeGameProject\TestRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Documents\MazeGameProject\TestRun_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading H:\Documents\MazeGameProject\TestRun_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  2.012 seconds
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.174179 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2652.
+Total: 167.098648 ms (FindLiveObjects: 0.089354 ms CreateObjectMapping: 0.018112 ms MarkObjects: 0.147313 ms  DeleteObjects: 0.008452 ms)
+
+Start
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: H:\Documents\MazeGameProject\TestRun_Data\Managed\Boo.Lang.dll (this message is harmless)
+triggerEntered
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+StopRec
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saving
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Finishing Time: 7.048219
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 10.102437 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 128.
+Total: 198.042892 ms (FindLiveObjects: 0.023545 ms CreateObjectMapping: 0.028677 ms MarkObjects: 0.300362 ms  DeleteObjects: 0.159991 ms)
+
